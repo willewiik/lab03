@@ -1,8 +1,8 @@
-Package: packageLab03
+Package: komIgenNU
 Title: R Package for Euclidean Algorithm and Dijkstra's Shortest Path
 Version: 1.0
 Authors@R: c(
-	person("Duc", "Tran", email = "ductr388@student.liu.se", role = c("cre","aut")),
+    person("Duc", "Tran", email = "ductr388@student.liu.se", role = c("cre","aut")),
   person("William", "Wiik", email = "wilwi856@student.liu.se", role = "aut"))
 Description: This R package provides implementations of two algorithms:The Euclidean Algorithm to find the greatest common divisor (GCD) of two integers.Dijkstra's Shortest Path Algorithm for finding the shortest path in a graph.
 License: MIT
